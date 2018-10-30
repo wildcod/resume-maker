@@ -1,0 +1,28 @@
+#heading-Skills{
+    font-family: 'Bitter' , 'Serif';
+    margin-left: 34px;
+    color: honeydew;
+}
+
+#Skills {
+     margin-top: 80px; 
+     text-align: left;
+     border : 2px solid #ff4444;
+}
+
+#List{
+    /* text-align: left; */
+    margin-left: 30px;
+    color: white;
+}
+
+#Skills:hover{
+    border : 2px solid white;
+    cursor: pointer;
+}
+
+#link{
+    color: black;
+    text-decoration: unset;
+}
+

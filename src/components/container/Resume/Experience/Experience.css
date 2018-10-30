@@ -1,0 +1,55 @@
+#Experience {
+        /* margin-left: 230px; */
+        font-weight: 100;
+        font-size: 14px;
+   
+}
+
+
+#ExpLeft{
+    margin-right: 100px; 
+    font-weight: 100;
+    font-size: 13px; 
+    text-align: end;
+}
+
+#heading-Experience{
+    font-size : 20px;
+    margin-right: 400px;
+    font-weight: 130;
+    font-family: 'Bitter' , 'Serif';
+}
+
+@media (max-width : 1000px){
+     
+    #Exp{
+        width: 100px;
+    }
+}
+
+
+
+
+#ExpList{
+    margin-bottom: 3px;
+}
+
+#Exp {
+    margin-top : 100px;
+    text-align: left;
+    border : 2px solid #fff;
+}
+
+#Exp:hover{
+    border : 2px solid red;
+    cursor: pointer;
+}
+
+#title{
+    text-align: left;
+}
+
+#link{
+    color: black;
+    text-decoration: unset;
+}

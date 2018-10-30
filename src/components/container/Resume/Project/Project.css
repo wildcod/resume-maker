@@ -1,0 +1,28 @@
+#Project {
+    margin-left: 28px;
+    font-weight: 100;
+    font-size: 14px;
+    
+}
+#heading-Project{
+    font-size: 20px;
+    margin-right: 433px;
+    font-weight: 130;
+    font-family: 'Bitter' , 'Serif';
+}
+
+#Pro {
+     margin-top : 60px;
+     text-align: left;
+     border : 2px solid #fff;
+}
+
+#Pro:hover{
+    border : 1px solid red;
+    cursor: pointer;
+}
+
+#link{
+    color: black;
+    text-decoration: unset;
+}

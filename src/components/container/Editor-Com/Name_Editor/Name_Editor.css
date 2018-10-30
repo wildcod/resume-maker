@@ -1,0 +1,18 @@
+#NameEditor{
+    margin-left: 40px;
+    margin-top: 40px;
+     
+ }
+
+ #PhotoEditor{
+    margin-left: 15px;
+    margin-top: 40px;
+     
+ }
+
+ #uploader{
+     -webkit-appearance: none;
+     appearance: none;
+     width:190px;
+     margin-bottom: 10px;
+ }

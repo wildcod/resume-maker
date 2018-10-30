@@ -1,0 +1,55 @@
+#EduDes {
+    /* margin-left: 230px; */
+    font-weight: 100;
+    font-size: 14px;
+
+}
+
+
+#EduLeft{
+ margin-right: 100px; 
+font-weight: 100;
+font-size: 14px; 
+text-align: end;
+
+}
+#EduList{
+    margin-bottom: 3px;
+}
+
+#Education {
+    margin-left: 240px;
+    font-weight: 100;
+    font-size: 14px;
+}
+#heading-Education{
+    font-size: 20px;
+    margin-right: 408px;
+    font-weight: 130px;
+    font-family: 'Bitter' , 'Serif';
+}
+#Edu {
+     margin-top : 60px;
+     text-align: left;
+     border : 2px solid #fff;
+
+}
+
+#Edu:hover{
+    border : 2px solid red;
+    cursor: pointer;
+}
+
+
+
+#link{
+    color: black;
+    text-decoration: unset;
+}
+
+@media (max-width : 1000px){
+     
+    #Edu{
+        width: 100px;
+    }
+}

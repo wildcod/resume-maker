@@ -1,0 +1,32 @@
+#heading-Contact{
+    font-family: 'Bitter' , 'Serif';
+    color: honeydew;
+}
+
+#Contact {
+    
+    width: 300px;
+    border : 2px solid #ff4444;
+}
+
+#CList {
+    text-align: start;
+    margin-left: 58px;
+    color: white;
+}
+
+#Contact:hover{
+    border : 2px solid white;
+    cursor: pointer;
+}
+
+#f1{
+     font-size: 13px;
+     
+     text-align: start;
+}
+
+#link{
+    color: black;
+    text-decoration: unset;
+}
